@@ -1,6 +1,0 @@
-student name="   ";
-student registration number =" ";
-student roll no =" ";
-student marks =" ";
-Name="Ritesh Kmar"
-email=""riteshsingh39215@
