@@ -1,0 +1,4 @@
+student name="   ";
+student registration number =" ";
+student roll no =" ";
+student marks =" ";
