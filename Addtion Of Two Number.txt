@@ -1,0 +1,14 @@
+import java.util.*;  
+Class Addition
+    {
+     main()
+       {
+         Scanner sc=new Scanner(System.in)
+          int n=sc.nextInt();
+          imt m=sc.nextInt();
+         
+          int sum=m+n;
+          Sop(sum);
+       }
+  }
+          
